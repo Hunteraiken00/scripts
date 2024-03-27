@@ -25,5 +25,5 @@ for mode in "${MODES[@]}"; do
     done
 done
 
-echo "Finished trying all combinations without success."
+echo "No joy."
 
